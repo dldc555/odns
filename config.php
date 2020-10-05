@@ -1,0 +1,1 @@
+<?php  return array( 'name'=>'KiCi-Cloud', 'version'=>'1.1', 'minsystemver'=>'0.3.6.5' ); 
